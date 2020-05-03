@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>write</title>
+<style>
+
+  section {
+    width:500px;
+    height:300px;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-300px;
+    margin-top:-200px;
+  }
+
+  header img{
+    width: 50px;
+    height: auto;
+  }
+
+  .text_box input{
+    position: absolute;
+    left: 520px;
+  }
+
+
+</style>
+<script>
+function commit() {
+  var title_name = document.getElementById("title_bar");
+  var main_txt = document.getElementById('m_txt').value;
+  var uppic = document.getElementById('picture');
+
+  var text = "";
+  text += "제목 : "+ title_name.value + "\n내용 : " + main_txt;
+
+  if ('files' in uppic) {
+    if (uppic.files.length == 0) {
+      alert(text);
+    }else{
+      text += "\n선택한 사진 파일명 : " + uppic.files[0].name;
+      alert(text);
+    }
+  }
+
+
+
+
+
+  if (check) {
+    window.open("main.html","_self");
+  } else {
+    document.getElementById("txt").focus();
+    return false;
+  }
+}
+</script>
+</head>
+<body>
+  <header>
+    <a href="main.html"><img src="image/home.png" style="width:50px; height:auto"></a>
+  </header>
+
+  <section>
+    <form enctype="multipart/form-data">
+    <input type="text" size="82" id="title_bar" value="제목을 입력해주세요."><br><br>
+      그림첨부 : <input id="picture"type="file" accept="image/jpg,image/jpeg,image/png,image/gif" value=" "><br>
+    <div class="text_box" >
+      <textarea id="m_txt" name="main_text" rows="20" cols="80"></textarea>
+
+      <input id="txt" type="submit" name="in" value="글 등록하기" onclick="commit()">
+    </div>
+    </form>
+  </section>
+</body>
+</html>
