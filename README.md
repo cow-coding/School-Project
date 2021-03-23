@@ -12,7 +12,7 @@
   - [Final Project 1 : BigNumber Multiply (Calculate 10000!)](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/java%20programming/BigNumber) 
   - [Final Project 2 : Tetris using by Swing](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/java%20programming/Tetris%20Project)
 
-- [CSE4315 - Machine Learning](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning)
+- [CSE4302 - Artificial Intelligence](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence)
   
   
 ## Statistics
