@@ -13,6 +13,9 @@
   - [Final Project 2 : Tetris using by Swing](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/java%20programming/Tetris%20Project)
 
 - [CSE4302 - Artificial Intelligence](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence)
+  - [XOR DNN](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence/XOR)
+  - [MNIST - DNN](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence/MNIST/DNN)
+  - [MNIST - CNN]() 
   
   
 ## Statistics
