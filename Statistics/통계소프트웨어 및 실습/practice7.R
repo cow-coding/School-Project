@@ -82,3 +82,5 @@ geungong = function(a, b, c) {
 }
 
 geungong(2, -5, 3)
+geungong(2, -3, 3)
+geungong(0, 4, 3)
