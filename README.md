@@ -16,6 +16,9 @@
   - [XOR DNN](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence/XOR)
   - [MNIST - DNN](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence/MNIST/DNN)
   - [MNIST - CNN](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence/MNIST/CNN) 
+
+- [CSE4315 - Machine Learning](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning)
+  - [Wine Classifier](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning/Wine%20Calssifier)
   
   
 ## Statistics
