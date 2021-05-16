@@ -6,7 +6,7 @@
   - [Final Project : SNS Article Board](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Internet%20Programming/12191601_Final_project)
   
 - [CSE3202 - Programming Language](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Programming%20Language)  
-  - [Final Project : Around Us(Chatting Mafia Game)](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Programming%20Language/Final%20Project)
+  - [Final Project : Around Us (Chatting Mafia Game) ](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Programming%20Language/Final%20Project)
 
 - [CSE2107 - Java Programming](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/java%20programming)  
   - [Final Project 1 : BigNumber Multiply (Calculate 10000!)](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/java%20programming/BigNumber) 
