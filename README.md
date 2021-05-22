@@ -19,6 +19,7 @@
 
 - [CSE4315 - Machine Learning](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning)
   - [Wine Classifier](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning/Wine%20Calssifier)
+  - [Black Jack : Reinforcement Learning](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning/Black%20Jack)
   
   
 ## Statistics
