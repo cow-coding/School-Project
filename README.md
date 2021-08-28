@@ -18,7 +18,7 @@
   - [Final Project 2 : Tetris using by Swing](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/java%20programming/Tetris%20Project)
 ---
 ### 3 - 1
-- [CSE3207 - Database]
+- [CSE3207 - Database](#)
   - [알.쓸.선.잡 (알아두면 쓸모있는 선거 잡학사전)](https://github.com/cow-coding/V.O.T.E)
 
 - [CSE4302 - Artificial Intelligence](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Artificial%20Intelligence)
