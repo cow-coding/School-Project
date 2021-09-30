@@ -31,9 +31,14 @@
 - [CSE4315 - Machine Learning](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning)
   - [Wine Classifier](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning/Wine%20Calssifier)
   - [Black Jack : Reinforcement Learning](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Machine%20Learning/Black%20Jack)
+---
+### 3 - 2
+- [CSE3309 - Problem Solving]()
+- [CSE3313 - Linux Programming]()
   
   
 ## Statistics
 
 - [STS2001 - Statistical Software and Lab](https://github.com/cow-coding/School-Project/tree/master/Statistics/통계소프트웨어%20및%20실습)
 - [STS2008 - Statistical Computing](https://github.com/cow-coding/School-Project/tree/master/Statistics/전산통계)
+- [STS4044 - Big Data Analysis]()
