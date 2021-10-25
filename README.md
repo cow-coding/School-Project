@@ -34,7 +34,7 @@
 ---
 ### 3 - 2
 - [CSE3309 - Problem Solving](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Problem%20Solving)
-- [CSE3313 - Linux Programming]()
+- [CSE3313 - Linux Programming](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Linux%20Programming)
   
   
 ## Statistics
