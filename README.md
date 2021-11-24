@@ -10,7 +10,7 @@
   - [Final Project : Around Us (Chatting Mafia Game) ](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Programming%20Language/Final%20Project)
 ---
 ### 2 - Summer
-- [CSE2112 - Datastructer](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Datastructure)
+- [CSE2112 - Datastructure](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Datastructure)
 ---
 ### 2 - 2
 - [CSE2107 - Java Programming](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/java%20programming)  
