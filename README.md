@@ -44,3 +44,4 @@
 - [STS2008 - Statistical Computing](https://github.com/cow-coding/School-Project/tree/master/Statistics/Statistical%20Computing)
 - [STS4044 - Big Data Analysis](https://github.com/cow-coding/School-Project/tree/master/Statistics/Big%20Data%20Analysis)
   - [Data Crawling Project : lolchess.gg Data Analysis](https://github.com/cow-coding/School-Project/tree/master/Statistics/Big%20Data%20Analysis/crwaling%20project)
+  - [Team Project - Kakao Arena Melon Playlist Continuation](https://github.com/cow-coding/School-Project/tree/master/Statistics/Big%20Data%20Analysis/Melon%20Playlist%20Continuation)
