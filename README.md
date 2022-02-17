@@ -20,7 +20,7 @@
 
 - [CSE2105 - Computational Linear Algebra in Computer Science](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Linear%20Algebra)
   - [Upper triangle](https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Linear%20Algebra/Upper%20triangle)
-  - [LU Factorization]((https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Linear%20Algebra/LUFactorization))
+  - [LU Factorization]((https://github.com/cow-coding/School-Project/tree/master/Computer%20Science/Linear%20Algebra/LUFactorization)
 
 ---
 ### 3 - 1
